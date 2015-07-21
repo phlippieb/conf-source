@@ -1,0 +1,13 @@
+alias grepl='~/bin/grepl.sh'
+#alias mount='mount |column -t'
+alias mkdir='mkdir -pv'
+alias diff='colordiff'
+alias mv='mv -i'
+alias cp='cp -i'
+alias ln='ln -i'
+alias rm='rm -I --preserve-root'
+alias cl='clear;tput cup "$LINES"'
+alias vi='vim'
+alias o="less -X"
+alias v="less"
+alias e="vim"
